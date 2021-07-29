@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KotlinMVVMSoftwareLanguages</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="languages_name">Languages Name</string>
+    <string name="description">Description</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="kotlin_is_the_best_mobile_programming_language">Kotlin is the best mobile programming language.</string>
+</resources>
